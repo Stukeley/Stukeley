@@ -6,6 +6,8 @@ I'm in love with C#. I think it's a modern, clean language, that can be used to 
 
 I am also familiar with Relational Databases (including Entity Framework), Machine Learning (ML.NET), and other languages: C, C++, JavaScript, F#.
 
+I have created bots for Twitch, Reddit and Discord - the three places where I spend most of my free time - all using C#!
+
 I'm eager to learn, and I'm constantly expanding my skills by learning new frameworks and technologies.
 
 Back in the day, I was also passionate about Creative Coding. You can find some of my old samples [here](https://github.com/Stukeley/p5js-projects).
