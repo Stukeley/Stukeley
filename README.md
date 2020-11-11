@@ -43,6 +43,7 @@ I run a blog about programming in C#! If you're interested in some of my project
   <img align="left" alt="My Instagram" width="22px" src="https://simpleicons.org/icons/fiverr.svg" />
 </a>
 
+<br/>
 
 
 ### Contact 📫
