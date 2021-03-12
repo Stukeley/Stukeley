@@ -54,6 +54,8 @@ If you want to contact me for any reason, you can do that directly on my Blog, o
 https://stukeleyak.com/  
 https://www.fiverr.com/stukeley
 
+You can also add me on Discord: **Stukeley#9149**
+
 
 <!--
 **Stukeley/Stukeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
