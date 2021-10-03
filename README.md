@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Rafał "Stukeley" Klinowski, also known as "Stukeleyak". I'm a second year student of Information Technology at Politechnika Śląska, Poland.
+My name is Rafał "Stukeley" Klinowski, also known as "Stukeleyak". I'm a third year student of Information Technology at Politechnika Śląska, Poland.
 
 ### Technologies 💻
 I'm in love with C#. I think it's a modern, clean language, that can be used to achieve almost anything. I have been using it for about 4 years now, and I am comfortable in technologies such as: WinForms, WPF, UWP, ASP.NET, Uno and more.
@@ -17,7 +17,7 @@ I have been working as a Freelance .NET Developer on Fiverr for a few months now
 
 ### Blog ✍
 I run a blog about programming in C#! If you're interested in some of my projects, or want to learn about some less-known aspects of C#, feel free to follow for weekly updates!  
-[Stukeleyak's Code Blog](https://stukeleyak.com/)
+[Stukeleyak's Code Blog](https://stukeleyak.wordpress.com/)
 
 ### Stats 📊
 
@@ -51,7 +51,7 @@ I run a blog about programming in C#! If you're interested in some of my project
 ### Contact 📫
 If you want to contact me for any reason, you can do that directly on my Blog, or through Fiverr. Feel free to ask me anything!
 
-https://stukeleyak.com/  
+https://stukeleyak.wordpress.com/  
 https://www.fiverr.com/stukeley
 
 You can also add me on Discord: **Stukeley#9149**
