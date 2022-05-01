@@ -2,18 +2,18 @@
 My name is Rafał "Stukeley" Klinowski, also known as "Stukeleyak". I'm a third year student of Information Technology at Politechnika Śląska, Poland.
 
 ### Technologies 💻
-I'm in love with C#. I think it's a modern, clean language, that can be used to achieve almost anything. I have been using it for about 4 years now, and I am comfortable in technologies such as: WinForms, WPF, UWP, ASP.NET, Uno and more.
+I'm in love with C#. I think it's a modern, clean language, that can be used to achieve almost anything. I have been using it for about 6 years now, and I am comfortable in technologies such as: WinForms, WPF, MAUI, ASP.NET and more.
 
-I am also familiar with Relational Databases (including Entity Framework), Machine Learning (ML.NET), and other languages: C, C++, JavaScript, F#.
+I am also familiar with Relational Databases (including Entity Framework, MsSQL), Machine Learning (ML.NET, TensorFlow), and other languages: C, C++, Java, JavaScript, Python.
 
-I have created bots for Twitch, Reddit and Discord - the three places where I spend most of my free time - all using C#!
+I have created bots for Twitch, Reddit and Discord - the three places where I spend most of my free time - all using C# with use of publicly available APIs!
 
 I'm eager to learn, and I'm constantly expanding my skills by learning new frameworks and technologies.
 
 Back in the day, I was also passionate about Creative Coding. You can find some of my old samples [here](https://github.com/Stukeley/p5js-projects).
 
 ### Freelancing 👨‍💻
-I have been working as a Freelance .NET Developer on Fiverr for a few months now. During this time, I have learned a lot about working with practical projects, creating business and personal applications, as well as implementing new features on existing code. It has been a fun and learning experience!
+I worked as a Freelance .NET Developer on Fiverr between 07.2020 - 09.2020. During this time, I have learned a lot about working with practical projects, creating business and personal applications, implementing new features on existing code and communication with clients. It has been a fun and learning experience!
 
 ### Blog ✍
 I run a blog about programming in C#! If you're interested in some of my projects, or want to learn about some less-known aspects of C#, feel free to follow for weekly updates!  
