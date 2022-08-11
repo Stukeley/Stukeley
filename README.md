@@ -4,7 +4,7 @@ My name is Rafał "Stukeley" Klinowski, also known as "Stukeleyak". I'm a third 
 ### Technologies 💻
 I'm in love with C#. I think it's a modern, clean language, that can be used to achieve almost anything. I have been using it for about 6 years now, and I am comfortable in technologies such as: WinForms, WPF, MAUI, ASP.NET and more.
 
-I am also familiar with Relational Databases (including Entity Framework, MsSQL), Machine Learning (ML.NET, TensorFlow), and other languages: C, C++, Java, JavaScript, Python.
+I am also familiar with Relational Databases (including Entity Framework, MsSQL), Machine Learning (ML.NET, TensorFlow), and other languages: C, Java, JavaScript, Python, PHP.
 
 I have created bots for Twitch, Reddit and Discord - the three places where I spend most of my free time - all using C# with use of publicly available APIs!
 
@@ -15,9 +15,9 @@ Back in the day, I was also passionate about Creative Coding. You can find some 
 ### Freelancing 👨‍💻
 I worked as a Freelance .NET Developer on Fiverr between 07.2020 - 09.2020. During this time, I have learned a lot about working with practical projects, creating business and personal applications, implementing new features on existing code and communication with clients. It has been a fun and learning experience!
 
-### Blog ✍
-I run a blog about programming in C#! If you're interested in some of my projects, or want to learn about some less-known aspects of C#, feel free to follow for weekly updates!  
-[Stukeleyak's Code Blog](https://stukeleyak.wordpress.com/)
+### Website ✍
+I run a website along with a blog, where I talk about programming in general, especially: C#, ASM, code optimization, machine learning, and others. If you're interested in some of my projects, or want to learn about some less-known aspects of C#, feel free to follow for weekly updates!  
+[Stukeleyak.me](https://stukeleyak.me/)
 
 ### Stats 📊
 
@@ -33,12 +33,8 @@ I run a blog about programming in C#! If you're interested in some of my project
   <img align="left" alt="My Twitch Page" width="22px" src="https://simpleicons.org/icons/twitch.svg" />
 </a>
 
-<a href="https://stukeleyak.com">
+<a href="https://stukeleyak.me">
   <img align="left" alt="My Blog" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />
-</a>
-
-<a href="http://instagram.com/stukeleyak">
-  <img align="left" alt="My Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
 
 <a href="https://www.fiverr.com/stukeley">
@@ -51,8 +47,9 @@ I run a blog about programming in C#! If you're interested in some of my project
 ### Contact 📫
 If you want to contact me for any reason, you can do that directly on my Blog, or through Fiverr. Feel free to ask me anything!
 
-https://stukeleyak.wordpress.com/  
+https://stukeleyak.me/  
 https://www.fiverr.com/stukeley
+Business email: contact@stukeleyak.me
 
 You can also add me on Discord: **Stukeley#9149**
 
