@@ -52,7 +52,7 @@ I run a website along with a blog, where I talk about programming in general, es
 If you want to contact me for any reason, you can do that directly on my Blog, or through Fiverr. Feel free to ask me anything!
 
 https://stukeleyak.me/  
-https://www.fiverr.com/stukeley
+https://www.fiverr.com/stukeley  
 Business email: contact@stukeleyak.me
 
 You can also add me on Discord: **Stukeley#9149**
