@@ -4,12 +4,12 @@ My name is Rafał "Stukeley" Klinowski, also known as "Stukeleyak".
 I have a Bachelor of Engineering degree in Information Technology, graduated from Politechnika Śląska, Gliwice, Poland in February 2023.
 
 ### Technologies 💻
-Originally a Freelance .NET developer, I have quite recently become interested in the world of Artificial Intelligence. My goal is to enroll in a Ph.D. program and research the use of AI in fields such as games (reinforcement learning, AI narrative) and performance engineering.
+Originally a Freelance .NET developer, I have quite recently become interested in the world of Artificial Intelligence. My goal is to enroll in a Ph.D. program and research the use of AI in fields such as image processing (spoof detection, quality of image upscaling), games (reinforcement learning, AI narrative) and performance engineering.
 
 My AI skills include:
 - Python
 - R
-- TensorFlow
+- TensorFlow, PyTorch
 - Neural Networks
 - Deep Learning
 - Data Analysis
