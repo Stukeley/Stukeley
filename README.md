@@ -3,13 +3,15 @@ My name is Rafał "Stukeley" Klinowski, also known as "Stukeleyak".
 
 I have a Master of Engineering degree in Information Technology, graduated with honors from Uniwersytet Bielsko-Bialski, Poland in June 2024.
 
+I am currently a PhD student at Uniwersytet Bielsko-Bialski, researching the use of deep learning and image processing in face authenticity recognition.
+
 ### Technologies 💻
-Originally a Freelance .NET developer, I have quite recently become interested in the world of Artificial Intelligence. My goal is to enroll in a Ph.D. program and research the use of AI in fields such as image processing (spoof detection, quality of image upscaling), games (reinforcement learning, AI narrative), and performance engineering.
+Originally a Freelance .NET developer, I have quite recently become interested in the world of Artificial Intelligence. I am currently working with methods of machine learning and image processing in the context of face authenticity detection (spoofing detection). I am also interested in applying AI to games (eg. reinforced learning) and performance engineering.
 
 My AI skills include:
 - Python
 - R
-- TensorFlow, PyTorch
+- TensorFlow, PyTorch, OpenCV
 - Neural Networks
 - Deep Learning
 - Data Analysis
@@ -32,8 +34,9 @@ I run a website along with a blog, where I talk about programming in general, es
 [Stukeleyak.me](https://stukeleyak.me/)
 
 ### Contact 📫
-If you want to contact me for any reason, you can do that directly on my Blog, or through Fiverr. Feel free to ask me anything!
+If you want to contact me for any reason, you can do that directly on LinkedIn, my Blog, or through Fiverr. Feel free to ask me anything!
 
+https://www.linkedin.com/in/rafal-klinowski/
 https://stukeleyak.me/  
 https://www.fiverr.com/stukeley  
 Business email: contact@stukeleyak.me
