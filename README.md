@@ -5,6 +5,15 @@ I have a Master of Engineering degree in Information Technology, graduated with 
 
 I am currently a PhD student at Uniwersytet Bielsko-Bialski, researching the use of deep learning and image processing in face authenticity recognition.
 
+List of my publications:
+- Face Authenticity Detection System - ISBN 978-83-67652-29-2, DOI: https://doi.org/10.53052/9788367652292
+- Face Spoofing Detection in Employee Registration - [WORK IN PROGRESS]
+- Neural Network Architectures Comparison in Spoof Detection - [WORK IN PROGRESS]
+
+Conferences:
+- Polish SigML - Kraków, 20-21.11.2024
+- Engineer of XXI Century - Bielsko-Biała, 6.12.2024
+
 ### Technologies 💻
 Originally a Freelance .NET developer, I have quite recently become interested in the world of Artificial Intelligence. I am currently working with methods of machine learning and image processing in the context of face authenticity detection (spoofing detection). I am also interested in applying AI to games (eg. reinforced learning) and performance engineering.
 
